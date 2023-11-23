@@ -1,0 +1,219 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": ""
+    },
+    "github": {
+      "_configName": "PicList",
+      "_id": "aecf0fe7-52df-4f2e-b800-6b8c798e99d7",
+      "_createdAt": 1700673131169,
+      "_updatedAt": 1700705787328,
+      "repo": "Liu670/cloudimg",
+      "branch": "main",
+      "token": "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",
+      "path": "PicList/",
+      "customUrl": "cdn.jsdelivr.net/gh/Liu670/cloudimg@main"
+    },
+    "list": [
+      {
+        "type": "tcyun",
+        "name": "腾讯云COS",
+        "visible": false
+      },
+      {
+        "type": "aliyun",
+        "name": "阿里云OSS",
+        "visible": false
+      },
+      {
+        "type": "smms",
+        "name": "SM.MS",
+        "visible": true
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "visible": true
+      },
+      {
+        "type": "qiniu",
+        "name": "七牛云",
+        "visible": false
+      },
+      {
+        "type": "imgur",
+        "name": "Imgur",
+        "visible": true
+      },
+      {
+        "type": "upyun",
+        "name": "又拍云",
+        "visible": false
+      },
+      {
+        "type": "webdavplist",
+        "name": "WebDAV",
+        "visible": true
+      },
+      {
+        "type": "local",
+        "name": "本地上传",
+        "visible": true
+      },
+      {
+        "type": "sftpplist",
+        "name": "内置SFTP",
+        "visible": true
+      },
+      {
+        "type": "telegraphplist",
+        "name": "Telegraph",
+        "visible": true
+      },
+      {
+        "type": "piclist",
+        "name": "PicList",
+        "visible": true
+      }
+    ],
+    "local": {
+      "_configName": "Default",
+      "_id": "05dc32a0-e65a-44b0-aad0-52e40ee2a591",
+      "_createdAt": 1700709608937,
+      "_updatedAt": 1700709608937
+    },
+    "sftpplist": {
+      "_configName": "Default",
+      "_id": "a87e49d4-c9e9-4392-9f32-ca0338a81fe2",
+      "_createdAt": 1700709609349,
+      "_updatedAt": 1700709609349
+    },
+    "telegraphplist": {
+      "_configName": "Default",
+      "_id": "530fa1aa-b625-44dd-a01b-02b6649a54bd",
+      "_createdAt": 1700709614279,
+      "_updatedAt": 1700709614279
+    },
+    "piclist": {
+      "_configName": "Default",
+      "_id": "2583fb81-8137-4f6f-b807-7607a2d17600",
+      "_createdAt": 1700709639842,
+      "_updatedAt": 1700709653625,
+      "host": "127.0.0.1",
+      "port": 36677,
+      "picbed": "",
+      "configName": "",
+      "serverKey": ""
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "server": {
+      "port": 36677,
+      "host": "0.0.0.0",
+      "enable": true
+    },
+    "isListeningClipboard": false,
+    "showUpdateTip": true,
+    "deleteCloudFile": true,
+    "uploadNotification": false,
+    "pasteStyle": "markdown",
+    "autoImport": true,
+    "autoImportPicBed": [
+      "github"
+    ],
+    "rename": false,
+    "deleteLocalFile": true,
+    "useShortUrl": true,
+    "startMode": "quiet",
+    "autoStart": true,
+    "autoCopy": true,
+    "useBuiltinClipboard": false,
+    "shortUrlServer": "yourls",
+    "yourlsDomain": "ihong.love",
+    "yourlsSignature": "test",
+    "uploadResultNotification": false
+  },
+  "picgoPlugins": {
+    "picgo-plugin-auto-delete": false
+  },
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "needReload": false,
+  "uploader": {
+    "github": {
+      "configList": [
+        {
+          "_configName": "PicList",
+          "_id": "aecf0fe7-52df-4f2e-b800-6b8c798e99d7",
+          "_createdAt": 1700673131169,
+          "_updatedAt": 1700705787328,
+          "repo": "Liu670/cloudimg",
+          "branch": "main",
+          "token": "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",
+          "path": "PicList/",
+          "customUrl": "cdn.jsdelivr.net/gh/Liu670/cloudimg@main"
+        }
+      ],
+      "defaultId": "aecf0fe7-52df-4f2e-b800-6b8c798e99d7"
+    },
+    "local": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "05dc32a0-e65a-44b0-aad0-52e40ee2a591",
+          "_createdAt": 1700709608937,
+          "_updatedAt": 1700709608937
+        }
+      ],
+      "defaultId": "05dc32a0-e65a-44b0-aad0-52e40ee2a591"
+    },
+    "sftpplist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "a87e49d4-c9e9-4392-9f32-ca0338a81fe2",
+          "_createdAt": 1700709609349,
+          "_updatedAt": 1700709609349
+        }
+      ],
+      "defaultId": "a87e49d4-c9e9-4392-9f32-ca0338a81fe2"
+    },
+    "telegraphplist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "530fa1aa-b625-44dd-a01b-02b6649a54bd",
+          "_createdAt": 1700709614279,
+          "_updatedAt": 1700709614279
+        }
+      ],
+      "defaultId": "530fa1aa-b625-44dd-a01b-02b6649a54bd"
+    },
+    "piclist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "2583fb81-8137-4f6f-b807-7607a2d17600",
+          "_createdAt": 1700709639842,
+          "_updatedAt": 1700709653625,
+          "host": "127.0.0.1",
+          "port": 36677,
+          "picbed": "",
+          "configName": "",
+          "serverKey": ""
+        }
+      ],
+      "defaultId": "2583fb81-8137-4f6f-b807-7607a2d17600"
+    }
+  }
+}
