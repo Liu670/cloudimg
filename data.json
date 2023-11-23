@@ -1,0 +1,154 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": ""
+    },
+    "github": {
+      "repo": "Liu670/cloudimg",
+      "branch": "main",
+      "token": "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",
+      "path": "PicList/",
+      "customUrl": "cdn.jsdelivr.net/gh/Liu670/cloudimg@main",
+      "_configName": "Default",
+      "_id": "5387eebc-3757-4f21-9b1c-05ef4a90050c",
+      "_createdAt": 1700711275682,
+      "_updatedAt": 1700726993145
+    },
+    "list": [
+      {
+        "type": "tcyun",
+        "name": "腾讯云COS",
+        "visible": false
+      },
+      {
+        "type": "aliyun",
+        "name": "阿里云OSS",
+        "visible": false
+      },
+      {
+        "type": "smms",
+        "name": "SM.MS",
+        "visible": false
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "visible": true
+      },
+      {
+        "type": "qiniu",
+        "name": "七牛云",
+        "visible": false
+      },
+      {
+        "type": "imgur",
+        "name": "Imgur",
+        "visible": false
+      },
+      {
+        "type": "upyun",
+        "name": "又拍云",
+        "visible": false
+      },
+      {
+        "type": "webdavplist",
+        "name": "WebDAV",
+        "visible": false
+      },
+      {
+        "type": "local",
+        "name": "本地上传",
+        "visible": false
+      },
+      {
+        "type": "sftpplist",
+        "name": "内置SFTP",
+        "visible": false
+      },
+      {
+        "type": "telegraphplist",
+        "name": "Telegraph",
+        "visible": false
+      },
+      {
+        "type": "piclist",
+        "name": "PicList",
+        "visible": true
+      }
+    ],
+    "piclist": {
+      "_configName": "Default",
+      "_id": "862f3441-4e8b-43a5-9a85-9d2b8e4f39f9",
+      "_createdAt": 1700726288290,
+      "_updatedAt": 1700726288290
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "server": {
+      "port": 36677,
+      "host": "0.0.0.0",
+      "enable": false
+    },
+    "showUpdateTip": false,
+    "pasteStyle": "markdown",
+    "privacyEnsure": true,
+    "isListeningClipboard": false,
+    "deleteCloudFile": true,
+    "sync": {
+      "type": "github",
+      "username": "Liu670",
+      "repo": "cloudimg",
+      "branch": "main",
+      "token": "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",
+      "endpoint": "",
+      "proxy": "",
+      "interval": 60
+    },
+    "useShortUrl": true
+  },
+  "picgoPlugins": {
+    "picgo-plugin-auto-delete": true
+  },
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "needReload": false,
+  "uploader": {
+    "github": {
+      "configList": [
+        {
+          "repo": "Liu670/cloudimg",
+          "branch": "main",
+          "token": "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",
+          "path": "PicList/",
+          "customUrl": "cdn.jsdelivr.net/gh/Liu670/cloudimg@main",
+          "_configName": "Default",
+          "_id": "5387eebc-3757-4f21-9b1c-05ef4a90050c",
+          "_createdAt": 1700711275682,
+          "_updatedAt": 1700726993145
+        }
+      ],
+      "defaultId": "5387eebc-3757-4f21-9b1c-05ef4a90050c"
+    },
+    "piclist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "862f3441-4e8b-43a5-9a85-9d2b8e4f39f9",
+          "_createdAt": 1700726288290,
+          "_updatedAt": 1700726288290
+        }
+      ],
+      "defaultId": "862f3441-4e8b-43a5-9a85-9d2b8e4f39f9"
+    }
+  }
+}
